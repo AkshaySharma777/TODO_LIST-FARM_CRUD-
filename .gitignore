@@ -1,0 +1,5 @@
+# Exclude node_modules in frontend
+FRONTEND(REACT-TODO_LIST)/node_modules/
+
+# Exclude site-packages in backend virtual environment
+BACKEND(FASTAPI-TODO_LIST)/.venv/Lib/site-packages/
